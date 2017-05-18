@@ -1,4 +1,4 @@
-*Built in a Linux virtual machine using VMWare
+*Built in a Linux virtual machine using Oracle VM VirtualBox
 
 Basic CPU emulator
 ==================
