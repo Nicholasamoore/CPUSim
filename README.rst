@@ -1,7 +1,7 @@
 Basic CPU emulator
 ==================
 
-The purpose of this project is to explore the steps taken inside the processor based on Von Neumann architecture. Classes are implemented for the following:
+The purpose of this project is to explore the steps taken inside the processor based on Von Neumann architecture. The C++ code here mimics assembly language (opCode, dest, src) for research/learning purposes. Classes are implemented for the following:
 
 * ALU
 * Controller
