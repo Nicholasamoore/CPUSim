@@ -27,16 +27,16 @@ Testing the machine
 
 The following 11 instructions are stored in sequential memory locations:
 
-* MOV 	50 	1234
-* MOV 	51 	1111
-* MOVR 	8 	50
-* ADD 	8 	51
-* MOV 	52 	2222
-* SUB 	8 	52
-* MOV 	53 	2
-* DIV 	8 	53
-* MUL 	8 	51
-* WRITE 	8
+* MOV, 50, 1234
+* MOV, 51, 1111
+* MOVR, 8, 50
+* ADD, 8, 51
+* MOV, 52, 2222
+* SUB, 8, 52
+* MOV, 53, 2
+* DIV, 8, 53
+* MUL, 8, 51
+* WRITE, 8
 * HALT
 
 After these 11 steps have executed, a result of 67771 should be displayed.
