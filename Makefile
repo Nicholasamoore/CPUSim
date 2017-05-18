@@ -2,7 +2,7 @@
 
 # set the executable name
 BIN     := app
-TEST    := test
+#TEST    := test
 
 LIBS    := math
 
