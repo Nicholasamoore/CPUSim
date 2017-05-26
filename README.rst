@@ -45,7 +45,7 @@ After these 11 steps have executed, a result of 67771 should be displayed.
 
 Output:
 
-:: image: screen.png
+.. image:: screen.png
 
 To run the program:
 
