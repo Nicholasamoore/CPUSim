@@ -45,25 +45,7 @@ After these 11 steps have executed, a result of 67771 should be displayed.
 
 Output:
 
-    Adding 1234 and 1111...
-
-    2345
-
-    Subtracting 2222 from 2345...
-
-    123
-
-    Dividing 123 by 2...
-
-    61
-
-    Multiplying 61 and 1111...
-
-    67771
-
-    the result is: 67771
-
-    Halting...
+:: image: screen.png
 
 To run the program:
 
